@@ -3,7 +3,7 @@
 ## Download the Package
 Download the latest version of Istio:
 
-
+```shell
 curl -L https://istio.io/downloadIstio | sh - 
 export PATH=$PWD/bin:$PATH
 
